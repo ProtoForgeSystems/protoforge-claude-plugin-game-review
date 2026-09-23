@@ -1,0 +1,6 @@
+{
+  "name": "game-review",
+  "description": "How an AI coding agent looks at a game it cannot watch: a Godot Movie Maker driver harness, contact-sheet-then-full-frame clip review, and a blind second-reviewer agent for rendered clips.",
+  "version": "0.1.0",
+  "author": { "name": "ProtoForge Systems" }
+}

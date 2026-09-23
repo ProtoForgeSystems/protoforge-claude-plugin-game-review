@@ -1,0 +1,11 @@
+{
+  "name": "protoforge-game-review",
+  "owner": { "name": "ProtoForge Systems", "url": "https://github.com/ProtoForgeSystems" },
+  "plugins": [
+    {
+      "name": "game-review",
+      "source": "./",
+      "description": "Godot Movie Maker driver harness, contact-sheet clip review, and a blind frame-review agent — how an AI coding agent looks at a game it cannot watch."
+    }
+  ]
+}
