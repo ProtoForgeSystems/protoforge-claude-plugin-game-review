@@ -1,6 +1,6 @@
 # game-review — how an AI coding agent looks at a game
 
-Two Claude Code skills and one agent definition, extracted from a shipping Godot 4 project where
+Two Claude Code skills and one agent definition, extracted from an in-development Godot 4 project where
 most of the code is written by agent sessions and none of it can be watched by the agent that
 wrote it.
 

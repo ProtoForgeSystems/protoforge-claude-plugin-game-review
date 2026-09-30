@@ -133,7 +133,7 @@ stances looked bad. Frames answered "the turn looks fine." The log answered the 
 t=2.53  tapped move_left (2 frames)
 t=2.55  idle_r -> walk   (speed=1.50)
 t=2.57  walk   -> run    (speed=3.00)
-t=2.60  walk   -> idle_l (speed=0.00)
+t=2.60  run    -> idle_l (speed=0.00)
 ```
 
 The motor crossed the idle threshold in ONE physics frame, so the blend being investigated was
