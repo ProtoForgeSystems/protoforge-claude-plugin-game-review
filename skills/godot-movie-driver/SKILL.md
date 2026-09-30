@@ -192,7 +192,7 @@ reviewable portion of any capture — shorten/guard the harness or fix the game 
 A codebase that degrades gracefully can hand your driver a convincing stand-in for the thing it
 came to film. On the game this was built for, 2026-08-07: a clip-retime broke the animation loader, the designed
 fallback (fully procedural gait) took over, and the character kept walking — stiffly, but
-walking. Renders were made, numbers were measured, and the regression shipped and survived a
+walking. Renders were made, numbers were measured, and the regression merged and survived a
 day of verification, because every driver measured its own outputs and none asserted the clip
 system was actually running. **A fallback looks like the feature having an off day, not like a
 failure.**
